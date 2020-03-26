@@ -2,10 +2,6 @@
   url: /
 - title: Cursada
   url: /cursada
-- title: "TP 1: Pixabay"
-  url: /tp1-pixabay
-- title: "TP 2: MapQuest"
-  url: /tp2-mapquest
 - title: Contrato pedagógico
   url: /contrato-pedagogico
 - title: Material
@@ -14,5 +10,3 @@
   url: /software
 - title: Glosario
   url: /glosario
-- title: Videos
-  url: /videos
