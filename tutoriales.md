@@ -6,5 +6,3 @@
 
 ![Bajarse lista alumnos del campus](/assets/tutoriales/bajarseExcelldeEstudiantesCampus.gif)
 
-
-![Bajarse lista alumnos del campus](/assets/tutoriales/bajarseLista.gif)
