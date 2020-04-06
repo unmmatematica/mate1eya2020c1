@@ -32,14 +32,14 @@ Además, ya podés ir viendo la hoja de ruta para esta semana:
 
 * Leer estas [recomendaciones]() para la cursada.
 
-* Hacer la [prueba diagnóstico]() (esto debería ser un repaso del COPRUN, pero si encontrás dificultades y querés practicar más, podés hacer la [Unidad 0]() de la guía de ejercicios).
+* Hacer la [prueba diagnóstico]() (esto debería ser un repaso del COPRUN, pero si encontrás dificultades y querés practicar más, podés hacer la [Unidad 0](/mate1eya2020c1/assets/pdf/unidad0_repasoAlgebraico.pdf) de la guía de ejercicios).
 
 
 * Mirar este [video 1](), y este otro [video 2]()
 
 * Mirar este [resuelto]().
 
-* Hacer los ejercicios 1 a 7 de [Modelos Lineales]().
+* Hacer los ejercicios 1 a 7 de la [Unidad 1: modelos lineales](/mate1eya2020c1/assets/pdf/unidad1_modelosLineales.pdf).
 
 * Publicar dudas, preguntas, o cosas que no salieron en el [foro]()
 
