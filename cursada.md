@@ -8,6 +8,7 @@ layout: default
 {% include cursada.md cursada=site.data.cursada_actual %}
 --->
 
+<!---
 ## Semana 2 (Ma 14/Abr y Vie 17/Abr)
 
 Hoja de ruta para esta semana, para cada clase:
@@ -15,6 +16,8 @@ Hoja de ruta para esta semana, para cada clase:
 ### Clase Ma 14/Abr
 
 * Encuentros virtuales para trabajar las dudas del foro, según este cronograma:
+--->
+
 
 ## Semana 1 (Ma 07/Abr. El Viernes es feriado)
 <!---
