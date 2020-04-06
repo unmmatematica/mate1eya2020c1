@@ -159,9 +159,13 @@ tegral, ambas íntimamente relacionadas con otra idea fundamental de la materia,
 límite. Una vez más el énfasis no va estar puesto en el aprendizaje memorístico de métodos y con-
 ceptos sino en la comprensión de los conceptos, entendida como la capacidad de aplicarlos en forma
 flexible ante una gran variedad de situaciones sorprendentes o inesperadas.
-Lecturas
-Este cuadernillo no es por sí solo suficiente como material de estudio. Es sólo una guía de pro-
-blemas que debe complementarse con la lectura de bibliografía específica. Alguna la mencionamos
+
+### Lecturas
+La guía de ejercicios y todo el material que elaboramos no es por sí solo suficiente como material de estudio. Es sólo una guía que debe complementarse con la lectura de bibliografía específica. 
+Andá fijandoté semana a semana los libros y secciones recomendados para que leas.
+
+<!---
+Alguna la mencionamos
 a continuación, va a aparecer citada también para actividades a lo largo de la guía y otra la iremos
 recomendando los profesores durante la cursada.
 Los libros Funciones 1, Funciones 2 y Matrices de Altman, Comparatore y Kurzrok [1], [2] y [3],
@@ -185,10 +189,7 @@ a las chicas de biblioteca que son las personas más amables del mundo y con gus
 a encontrarlos. Una vez que los tengan se acomodan en una mesa y los examinan, encuentran el
 índice, lo leen. Buscan los temas de la materia y se van familiarizando con cómo están explicados en
 cada libro.
-
-
-_Por cualquier pregunta, sugerencia, observación, crítica, errores encontrados, escriban a la
-dirección de correo electrónico de la materia matematica1eya@gmail.com_
+--->
 
 
 ## Recomendaciones finales

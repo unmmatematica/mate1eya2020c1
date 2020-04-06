@@ -32,7 +32,7 @@ CRONOGRAMA
 ### Hoja de ruta para esta semana
 Además, ya podés ir viendo las activivades programadas para esta semana:
 
-* Leer estas [recomendaciones]() para la cursada.
+* Leer estas [recomendaciones](recomendaciones) para la cursada.
 
 * Hacer la [prueba diagnóstico]() (esto debería ser un repaso del COPRUN, pero si encontrás dificultades y querés practicar más, podés hacer la [Unidad 0](assets/pdf/unidad0_repasoAlgebraico.pdf) de la guía de ejercicios).
 
@@ -45,7 +45,7 @@ Además, ya podés ir viendo las activivades programadas para esta semana:
 
 * Publicar dudas, preguntas, o cosas que no salieron en el [foro]()
 
-* Material complementario:
+* Material complementario recomendado:
     * Demás cosas sobre [modelo lineal en material]()
     * Estas páginas de este libro
     * este video
