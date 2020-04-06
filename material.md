@@ -4,7 +4,7 @@
 
 * [Unidad 1: modelos lineales]()
 
-* Repaso del COPRUN: [Unidad 0: números enteros, fracciones y expresiones algebraicas]()
+* Repaso del COPRUN: [Unidad 0: números enteros, fracciones y expresiones algebraicas](/mate1eya2020c1/assets/pdf/unidad0_repasoAlgebraico.pdf)
 
 
 ## Videos, explicaciones y resueltos
