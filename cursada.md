@@ -15,9 +15,9 @@ layout: default
 * Encuentros virtuales para trabajar las dudas del foro, según este cronograma:
 
 ## Semana 1 (Ma 07/Abr. El Viernes es feriado)
-
+<!---
 * Completar la [encuesta de relevamiento tecnológico](https://docs.google.com/forms/d/1WjBEGgg_rBTDGzfZb5j-YZBPIMxuRVcKOlCDaoc9XeQ/)
-
+--->
 * Hacer la [prueba diagnóstico]()
 
 * Mirar este [video 1](), y este otro [video 2]()
