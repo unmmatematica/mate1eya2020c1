@@ -6,7 +6,7 @@ layout: landing
 
 Acá vas a encontrar _casi_ todo lo necesario para tu cursada de **Matemática 1 (1013) EyA, com. 12**, la materia que nos reúne. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
 
-Si es la primera vez que entrás acá, probablemente quieras leer estas [recomendaciones](), y después ir a la sección [cursada](/mate1eya2020c1/cursada).
+Si es la primera vez que entrás acá, probablemente quieras leer estas [recomendaciones](recomendaciones), y después ir a la sección [cursada](/mate1eya2020c1/cursada).
 
 <!---
  o ver el [material](/material) que tenemos disponible.
