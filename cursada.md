@@ -24,10 +24,12 @@ Hoja de ruta para esta semana, para cada clase:
 * Completar la [encuesta de relevamiento tecnológico](https://docs.google.com/forms/d/1WjBEGgg_rBTDGzfZb5j-YZBPIMxuRVcKOlCDaoc9XeQ/)
 --->
 
-Vamos a (intentar) hacer un encuentro virtual por grupos, como para vernos las caras y conocernos un poco, según este cronograma:
+### Encuentro virtual por grupos
+Vamos a (intentar) hacer un mini encuentro virtual por grupos, como para vernos las caras y conocernos un poco, según este cronograma:
 
 CRONOGRAMA
 
+### Hoja de ruta para esta semana
 Además, ya podés ir viendo la hoja de ruta para esta semana:
 
 * Leer estas [recomendaciones]() para la cursada.
