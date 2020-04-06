@@ -10,14 +10,14 @@ reescribiendo en base a la experiencia que vamos teniendo ya que una de las acti
 como docentes es estar permanentemente aprendiendo de nuestra experiencia, revisando nuestras
 prácticas y creencias.
 
-1. No estudiar de memoria. Se priviliegiará la comprensión por sobre la memorización de
+* No estudiar de memoria. Se priviliegiará la comprensión por sobre la memorización de
 métodos y fórmulas sin comprenderlas. A partir de esta premisa se trabajará en las clases
 para que los estudiantes confeccionen, a partir de su experiencia de estudio y de lo discutido
 y aprendido en clase, un resumen que podrán / deberán tener disponible para los parciales y
 finales. Se evitará dar criterios, fórmulas y métodos que se apliquen de memoria sin entender
 por qué funcionan.
 
-1. Lo importante es comprender. La comprensión, entendida como la posibilidad de desem-
+* Lo importante es comprender. La comprensión, entendida como la posibilidad de desem-
 peñarse en forma flexible ante situaciones inesperadas o novedosas poniendo en juego los
 conocimientos disponibles, se trabajará a partir de un conjunto variado de problemas que no
 se prodrán resolver simplemente memorizando una fórmula o un procedimiento “adecuado”.
@@ -34,7 +34,7 @@ remos esquematicamente con este logo:
 El objetivo final de este tipo de trabajo es prepararlos para poder poner sus conocimientos en
 juego para poder resolver problemas inesperados y sorprendentes.
 
-1. Evitar las cuentas pesadas. Se evitarán las cuentas engorrosas en los problemas, esto
+* Evitar las cuentas pesadas. Se evitarán las cuentas engorrosas en los problemas, esto
 requiere cierto equilibrio porque cuentas demasiado simples pueden llevar a problemas que
 tengan soluciones por métodos (como por ejemplo el tanteo) que son absolutamente legítimos
 pero en algunas circunstancias queremos evitar. A la vez se propondrán desafíos para que me-
@@ -95,5 +95,110 @@ eligiendo de cuál podés aprender mejor.
 --->
 
 ### Usar la computadora
-Los programas de matemática están presentes en la materia. No tenés por qué esperar la clase
-en el laboratorio de informática para recurrir a la computadora. Si no tenés en tu casa podés recurrir
+Los programas de matemática están presentes en la materia. Además del
+software matemático, tenés acceso al universo de Internet para buscar otras fuentes de información.
+Por ejemplo, el sitio https://es.khanacademy.org/ tiene una enorme variedad de videos con los que
+se puede aprender algunos procedimientos de cálculo frecuentes en la materia.
+
+### Escribir notas personales y resúmenes
+Los libros de matemática suelen incluir mucha más información que la que necesitamos. Pero, por
+otra parte, a veces no tienen todos los detalles de lo que necesitamos comprender completamente
+explicados. Los apuntes que tomamos en clase del pizarrón tampoco son siempre del todo ordenados.
+Lo que conviene hacer es armar apuntes ordenados a partir de las lecturas de los apuntes de clase y
+de los libros: anotar las definiciones, los resultados importantes, los ejemplos más representativos de
+cada concepto, los procedimientos que más se usan para resolver ciertos tipos de problemas, etc.
+
+### Tener disciplina y cumplir con las etapas
+Es obligatorio cumplir con las entregas. La evaluación continua está diseñada para que tengas que
+asumir el compromiso de estudiar. No existe otra manera de aprender. Todos los recursos y esfuerzos
+de la Universidad, de tus profesores y de los coordinadores de la materia están puestos para favorecer
+tu aprendizaje. Pero ningún recurso es suficiente si no disponés del tiempo y la dedicación al estudio.
+No hay manera de aprender lo necesario con solo asistir a las clases. Es importante que tengas
+esto presente al considerar cuántas materias podés cursar simultáneamente. Pensalo con cuidado y
+organizá tu tiempo y tus esfuerzos en función de la posibilidad que tengas de estudiar la materia por
+fuera del horario de las clases.
+
+## El conocimiento matemático
+Hoy vivimos en un mundo en el cual cada vez hay más acceso a datos, información, conocimiento
+a través de Internet. En particular el área de matemática cuenta con excelentes fuentes de recursos
+para poder consultar y aprender. La formación que impulsamos y alentamos es la de comprender en
+profundidad las ideas más importantes y los métodos, de manera de que te permita desempeñar-
+te con flexibilidad ante los problemas más variados que puedan ser modelizados matemáticamente.
+Creemos que poco puede servir a un ingeniero, por ejemplo, saber calcular la derivada de mil fun-
+ciones si no comprende muy bien el concepto de derivada de una función y no sabe bien en qué
+contextos o situaciones aplicarla.
+El enfásis va a estar puesto en la comprensión mucho más que en la memorización de métodos o
+resultados. Para eso te vamos a alentar en todas las clases a que vayas armando tus propios apuntes
+y resumenes que siempre vas a poder tener disponibles en forma irrestricta en todas las instancias
+de evaluación. No nos interesa que te memorices lo que pueda estar escrito en tus resúmenes,
+entendemos que si los fuiste creando vos mismo a través de tu estudio vas a poder usarlos con
+provecho para ayudarte a resolver los problemas y en el mejor de los casos ni siquiera los van a
+necesitar porque a lo largo del estudio vas a haber ido aprendiendo la mayor parte de las ideas y los
+métodos. Lo que no hayas terminado de memorizar sabrás buscarlo en tu resumen.
+
+## Temas fundamentales de los que trata la materia
+Matemática I trata fundamentalmente sobre el estudio de funciones de una variable real y el trata-
+miento de sistemas de ecuaciones lineales.
+La primera mitad del primer cuatrimestre va a estar dedicada al repaso y estudio de distintas fami-
+lias de funciones: lineales, cuadráticas, polinómicas en general, exponenciales, logaritmicas. También
+trabajaremos con sistemas de ecuaciones, estudiando cómo se relacionan dos o más ecuaciones,
+siempre teniendo en mente las situaciones o problemas a las que se pueden referir.
+En esta primera mitad trabajaremos en aprender a identificar y analizar a las funciones a partir de:
+ * **E**nunciados de problemas
+ * **F**órmulas y propiedades,
+ * **G**ráficos,
+ * **N**úmeros que representan datos,
+La actividad matemática que desarrollaremos en las aulas tendrá que ver con estudiar todas estas
+formas de acercarse y trabajar con funciones, yendo y viniendo de una forma de representación a otra.
+Aprendiendo cómo se indentifica cada función en forma escrita y pudiendo valerse de esa escritura
+para modelizar situaciones, resolver problemas y comunicar soluciones a sus compañeros.
+Trabajaremos también cómo operar con funciones, sumándolas o restándolas, multiplicándolas o
+dividiéndolas, componiéndolas, trasladándolas o escalándolas.
+En la segunda mitad del cuatrimestre se introducirá y trabajarán las nociones de derivada e in-
+tegral, ambas íntimamente relacionadas con otra idea fundamental de la materia, que es la idea de
+límite. Una vez más el énfasis no va estar puesto en el aprendizaje memorístico de métodos y con-
+ceptos sino en la comprensión de los conceptos, entendida como la capacidad de aplicarlos en forma
+flexible ante una gran variedad de situaciones sorprendentes o inesperadas.
+Lecturas
+Este cuadernillo no es por sí solo suficiente como material de estudio. Es sólo una guía de pro-
+blemas que debe complementarse con la lectura de bibliografía específica. Alguna la mencionamos
+a continuación, va a aparecer citada también para actividades a lo largo de la guía y otra la iremos
+recomendando los profesores durante la cursada.
+Los libros Funciones 1, Funciones 2 y Matrices de Altman, Comparatore y Kurzrok [1], [2] y [3],
+son muy recomendables como primeras lecturas. Es fácil ubicarlos en biblioteca pues son rojos y hay
+muchos ejemplares.
+También son buenos libros para ir a leer temas de la materia los libros del bachillerato español de
+Guzmán, Colera y Salvador [7] y [8]. Hay algunos ejemplares en biblioteca.
+Un poco más avanzados pero muy recomendables para estudiar buena parte de los temas de la
+materia son los libros, Matemática para el aprestamiento universitario [6], Introducción a la matemática
+para el Primer Ciclo Universitario [5] y Notas de álgebra lineal para el primer ciclo universitario [13],
+todos de nuestra vecina, hermana mayor y compañera Universidad Nacional de General Sarmiento.
+El libro Cálculo Aplicado [11] y [12] es nuestro libro preferido por el enfoque y los problemas que
+propone. Tinen la contra que hay sólo dos ediciones en castellano y no se consiguen. La biblioteca
+no tiene ejemplares pero hay una copia en fotocopiadora. En algunas clases iremos recomendando
+algunas páginas para que lean de ese libro.
+El libro Matemáticas para administración y economía tiene muy buenos problemas, hay varios
+ejemplares de las ediciones 10 [9] y 12 [10].
+Una práctica recomendable es que hagan una visita de reconocimiento a la biblioteca, busquen los
+libros citados, pueden retirarlos ustedes mismos del estante y si no los encuentran pueden pedírselos
+a las chicas de biblioteca que son las personas más amables del mundo y con gusto les van a ayudar
+a encontrarlos. Una vez que los tengan se acomodan en una mesa y los examinan, encuentran el
+índice, lo leen. Buscan los temas de la materia y se van familiarizando con cómo están explicados en
+cada libro.
+
+
+_Por cualquier pregunta, sugerencia, observación, crítica, errores encontrados, escriban a la
+dirección de correo electrónico de la materia matematica1eya@gmail.com_
+
+
+## Recomendaciones finales
+Es muy importante . . .
+
+. . . tener un cuaderno o carpeta con las notas que vayan tomando durante las clases de la
+materia, tu producción de problemas resueltos o encarados, tus dudas, preguntas que te vayas
+haciendo y en algún momento quieras hacércelas al docente o a un compañero.
+
+. . . tener tu propio resumen con los conceptos, ideas y técnicas que vas aprendiendo y que vas
+a poder tener disponible para usar en parcialitos, parciales y finales.
+Que tengan una linda y enriquecedora cursada.
+Los autores.
