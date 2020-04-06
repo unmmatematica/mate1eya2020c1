@@ -1,9 +1,8 @@
 # Material
 
-## Campus virtual
+## Guía de ejercicios
 
-Allí vas a poder encontrar la guía de trabajos prácticos. La dirección es esta [campus](https://)
-
+* [Modelos Lineales]()
 
 ## Ejercicios resueltos (escritos y videos)
 

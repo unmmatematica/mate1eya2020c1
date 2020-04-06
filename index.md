@@ -19,4 +19,4 @@ Si es la primera vez que entrás acá, probablemente quieras ir a la sección [c
 
 * Para avisos de último momento y novedades vamos a utilizar este canal de [Telegram](https://t.me/joinchat/AAAAAEwprmdz2LDYlfp2Qg). Es importante que lo revises regularmente para no perderte nada.
 
-* También está el [campus virtual](http://campusvirtual.unm.edu.ar/moodle/login/index.php), donde te conviene estar inscripto pues es una herramienta institucional oficial de la UNM. Asegurate de configurar un mail que revises regularmente.
+* También está el [campus virtual](http://campusvirtual.unm.edu.ar/moodle/login/index.php), donde te conviene estar inscriptx pues es una herramienta institucional oficial de la UNM. Asegurate de configurar un mail que revises regularmente.

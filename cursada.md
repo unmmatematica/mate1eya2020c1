@@ -18,7 +18,11 @@ layout: default
 <!---
 * Completar la [encuesta de relevamiento tecnológico](https://docs.google.com/forms/d/1WjBEGgg_rBTDGzfZb5j-YZBPIMxuRVcKOlCDaoc9XeQ/)
 --->
+
+* Leer estas [recomendaciones]() para la cursada.
+
 * Hacer la [prueba diagnóstico]()
+    * Esto debería ser un repaso del COPRUN, pero si te resulta difícil y querés practicar más, podés hacer la [Unidad 0]() de la guía de ejercicios.
 
 * Mirar este [video 1](), y este otro [video 2]()
 
@@ -28,3 +32,6 @@ layout: default
 
 * Publicar dudas, preguntas, o cosas que no salieron en el [foro]()
 
+* Material complementario:
+    * Estas páginas de este libro
+    * este video
