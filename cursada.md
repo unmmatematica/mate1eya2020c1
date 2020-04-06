@@ -10,6 +10,8 @@ layout: default
 
 ## Semana 2 (Ma 14/Abr y Vie 17/Abr)
 
+Hoja de ruta para esta semana, para cada clase:
+
 ### Clase Ma 14/Abr
 
 * Encuentros virtuales para trabajar las dudas del foro, según este cronograma:
@@ -27,8 +29,7 @@ Además, ya podés ir viendo la hoja de ruta para esta semana:
 
 * Leer estas [recomendaciones]() para la cursada.
 
-* Hacer la [prueba diagnóstico]()
-    * Esto debería ser un repaso del COPRUN, pero si te resulta difícil y querés practicar más, podés hacer la [Unidad 0]() de la guía de ejercicios.
+* Hacer la [prueba diagnóstico]() (esto debería ser un repaso del COPRUN, pero si encontrás dificultades y querés practicar más, podés hacer la [Unidad 0]() de la guía de ejercicios).
 
 
 * Mirar este [video 1](), y este otro [video 2]()
