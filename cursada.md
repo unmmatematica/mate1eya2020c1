@@ -19,10 +19,17 @@ layout: default
 * Completar la [encuesta de relevamiento tecnológico](https://docs.google.com/forms/d/1WjBEGgg_rBTDGzfZb5j-YZBPIMxuRVcKOlCDaoc9XeQ/)
 --->
 
+Vamos a (intentar) hacer un encuentro virtual por grupos, como para vernos las caras y conocernos un poco, según este cronograma:
+
+CRONOGRAMA
+
+Además, ya podés ir viendo la hoja de ruta para esta semana:
+
 * Leer estas [recomendaciones]() para la cursada.
 
 * Hacer la [prueba diagnóstico]()
     * Esto debería ser un repaso del COPRUN, pero si te resulta difícil y querés practicar más, podés hacer la [Unidad 0]() de la guía de ejercicios.
+
 
 * Mirar este [video 1](), y este otro [video 2]()
 
@@ -33,5 +40,6 @@ layout: default
 * Publicar dudas, preguntas, o cosas que no salieron en el [foro]()
 
 * Material complementario:
+    * Demás cosas sobre [modelo lineal en material]()
     * Estas páginas de este libro
     * este video
