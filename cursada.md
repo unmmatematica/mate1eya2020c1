@@ -30,7 +30,7 @@ Vamos a (intentar) hacer un mini encuentro virtual por grupos, como para vernos 
 CRONOGRAMA
 
 ### Hoja de ruta para esta semana
-Además, ya podés ir viendo la hoja de ruta para esta semana:
+Además, ya podés ir viendo las activivades programadas para esta semana:
 
 * Leer estas [recomendaciones]() para la cursada.
 
