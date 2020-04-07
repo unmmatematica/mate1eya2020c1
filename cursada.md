@@ -29,7 +29,7 @@ Vamos a (intentar) hacer un mini encuentro virtual por grupos, como para vernos 
 
 Estate muy atentx al canal de Telegram y/o al mail, porque un rato antes vamos a avisar por dónde hacemos el encuentro.
 
-Si vas a usar compu, en principio no necesitás instalarte nada. Si vas a usar celu, sería genial si ya podés ir instalántode [jitsi](https://jitsi.org/downloads/).
+Si vas a usar compu, en principio no necesitás instalarte nada. Si vas a usar celu, sería genial si ya podés ir instalándote [jitsi](https://jitsi.org/downloads/).
 
 
 ¿PONER INSTALARSE ZOOM?
@@ -38,13 +38,16 @@ Si vas a usar compu, en principio no necesitás instalarte nada. Si vas a usar c
 ### Hoja de ruta para esta semana
 Además, ya podés ir viendo las actividades programadas para esta semana:
 
-* Leer estas [recomendaciones](recomendaciones) para la cursada.
+* Leé estas [recomendaciones](recomendaciones) para la cursada.
 
-* Hacer la [prueba diagnóstico](https://docs.google.com/forms/d/1lsNd1Ny_ApRA73p3TlivCEAc2Dlu2OO--jcgORhfnds/) (esto debería ser un repaso del COPRUN, pero si encontrás dificultades y querés practicar más, podés hacer la [Unidad 0](assets/pdf/unidad0_repasoAlgebraico.pdf) de la guía de ejercicios).
+* Hacé la [prueba diagnóstico](https://docs.google.com/forms/d/1lsNd1Ny_ApRA73p3TlivCEAc2Dlu2OO--jcgORhfnds/) (esto debería ser un repaso del COPRUN, pero si encontrás dificultades y querés practicar más, podés hacer la [Unidad 0](assets/pdf/unidad0_repasoAlgebraico.pdf) de la guía de ejercicios).
 
+Y si querés ir adelantando:
+* Mirá este [video 1](https://youtu.be/PzbDS-1X7Cw)
 
-* Mirar este [video 1](), y este otro [video 2]()
+* Mirá este [resuelto](assets/cursada/unidad1/Problema_1_Mesas.pdf).
 
+<!---
 * Mirar este [resuelto]().
 
 * Hacer los ejercicios 1 a 7 de la [Unidad 1: modelos lineales](assets/pdf/unidad1_modelosLineales.pdf).
