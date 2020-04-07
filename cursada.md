@@ -25,9 +25,15 @@ Hoja de ruta para esta semana, para cada clase:
 --->
 
 ### Encuentro virtual por grupos
-Vamos a (intentar) hacer un mini encuentro virtual por grupos, como para vernos las caras y conocernos un poco, según este cronograma:
+Vamos a (intentar) hacer un mini encuentro virtual por grupos, como para vernos las caras y conocernos un poco, según este [cronograma]().
 
-CRONOGRAMA
+Estate muy atentx al canal de Telegram y/o al mail, porque un rato antes vamos a avisar por dónde hacemos el encuentro.
+
+Si vas a usar compu, en principio no necesitás instalarte nada. Si vas a usar celu, sería genial si ya podés ir instalántode [jitsi](https://www.shellhacks.com/split-pdf-file-linux-command-line/).
+
+
+¿PONER INSTALARSE ZOOM?
+
 
 ### Hoja de ruta para esta semana
 Además, ya podés ir viendo las actividades programadas para esta semana:
