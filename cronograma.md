@@ -2,9 +2,9 @@
 
 ## Encuentro Ma 07/Abr
 
-Si algunx no figura en ningún grupo, sientasé libre de unirse a cualquier de las sesiones.
+**Si algunx no figura en ningún grupo, sientasé libre de unirse a cualquier de las sesiones.**
 
-Por el canal de Telegram y por mail, vamos a estar avisando por dónde hacemos los encuentros.
+**Por el canal de Telegram y por mail, vamos a estar avisando por dónde hacemos los encuentros.**
 
 ### Grupo 1: 18 hs.
 * Accosano More
