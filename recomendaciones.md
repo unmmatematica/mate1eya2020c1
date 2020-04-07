@@ -147,7 +147,8 @@ En esta primera mitad trabajaremos en aprender a identificar y analizar a las fu
  * **E**nunciados de problemas
  * **F**órmulas y propiedades,
  * **G**ráficos,
- * **N**úmeros que representan datos,
+ * **N**úmeros que representan datos,\
+
 La actividad matemática que desarrollaremos en las aulas tendrá que ver con estudiar todas estas
 formas de acercarse y trabajar con funciones, yendo y viniendo de una forma de representación a otra.
 Aprendiendo cómo se indentifica cada función en forma escrita y pudiendo valerse de esa escritura
@@ -201,5 +202,5 @@ haciendo y en algún momento quieras hacércelas al docente o a un compañero.
 
 . . . tener tu propio resumen con los conceptos, ideas y técnicas que vas aprendiendo y que vas
 a poder tener disponible para usar en parcialitos, parciales y finales.
+
 Que tengan una linda y enriquecedora cursada.
-Los autores.

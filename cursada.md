@@ -31,8 +31,7 @@ Estate muy atentx al canal de Telegram y/o al mail, porque un rato antes vamos a
 
 Si vas a usar compu, en principio no necesitás instalarte nada. Si vas a usar celu, sería genial si ya podés ir instalándote [jitsi](https://jitsi.org/downloads/).
 
-
-¿PONER INSTALARSE ZOOM?
+Además, también sería genial si ya podés ir instalándote [zoom](https://zoom.us/download). Se usa para video conferencias, y está para compu y para celu. Acá hay una [guía](assets/tutoriales/tutorial_zoom.pdf) que te puede ayudar a instalarlo.
 
 
 ### Hoja de ruta para esta semana
@@ -43,9 +42,9 @@ Además, ya podés ir viendo las actividades programadas para esta semana:
 * Hacé la [prueba diagnóstico](https://docs.google.com/forms/d/1lsNd1Ny_ApRA73p3TlivCEAc2Dlu2OO--jcgORhfnds/) (esto debería ser un repaso del COPRUN, pero si encontrás dificultades y querés practicar más, podés hacer la [Unidad 0](assets/pdf/unidad0_repasoAlgebraico.pdf) de la guía de ejercicios).
 
 Y si querés ir adelantando:
-* Mirá este [video 1](https://youtu.be/PzbDS-1X7Cw)
+* Mirá este [video 1](https://youtu.be/PzbDS-1X7Cw) (el autor es un compa nuestro)
 
-* Mirá este [resuelto](assets/cursada/unidad1/Problema_1_Mesas.pdf).
+* Mirá este [resuelto](assets/cursada/unidad1/Problema_1_Mesas.pdf) (el autor es un compa nuestro)
 
 <!---
 * Mirar este [resuelto]().
