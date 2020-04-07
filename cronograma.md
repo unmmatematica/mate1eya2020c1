@@ -13,7 +13,7 @@ Por el canal de Telegram y por mail, vamos a estar avisando por dónde hacemos l
 * Baldoni
 * Botana Sette Camara
 * Campodonico
-
+* Sánches, Sabrina
 
 
 ### Grupo 2: 18.30 hs.
