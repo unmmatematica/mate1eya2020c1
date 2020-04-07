@@ -1,7 +1,6 @@
 ## Cómo entendemos la matemática y su enseñanza
 
-Esperamos que las ideas de esta sección te ayuden a entender lo que esperamos de los estudian-
-tes de Matemática I y algunas de las estrategias que pondremos en juego para que comprendan los
+Esperamos que las ideas de esta sección te ayuden a entender lo que esperamos de los estudiantes de Matemática I y algunas de las estrategias que pondremos en juego para que comprendan los
 temas de la materia. Señalamos algunas de las cosas que nos parecen importantes y algunas que
 no, a la hora de comprender lo que los docentes se proponen enseñar. Recomendamos leerlo con
 atención y volver a releerlo varias veces durante la cursada porque va a ir cobrando más significado
@@ -17,17 +16,14 @@ y aprendido en clase, un resumen que podrán / deberán tener disponible para lo
 finales. Se evitará dar criterios, fórmulas y métodos que se apliquen de memoria sin entender
 por qué funcionan.
 
-* Lo importante es comprender. La comprensión, entendida como la posibilidad de desem-
-peñarse en forma flexible ante situaciones inesperadas o novedosas poniendo en juego los
+* Lo importante es comprender. La comprensión, entendida como la posibilidad de desempeñarse en forma flexible ante situaciones inesperadas o novedosas poniendo en juego los
 conocimientos disponibles, se trabajará a partir de un conjunto variado de problemas que no
 se prodrán resolver simplemente memorizando una fórmula o un procedimiento “adecuado”.
-Los temas se presentarán en forma geométrica G (representaciones gráficas), numérica N (re-
-presentaciones mediante tablas de datos), analítica F (representaciones mediante fórmulas) y
+Los temas se presentarán en forma geométrica G (representaciones gráficas), numérica N (representaciones mediante tablas de datos), analítica F (representaciones mediante fórmulas) y
 verbal E (enunciados de situaciones y problemas). La comprensión a la que aspiramos implica
 el trabajo con el pasaje de una a otra de estas representaciones lo que nos da una docena de
 pasajes o interacciones posibles que como estudiantes deben ir aprendiendo y dominando. La
-nombraremos como la Regla del cuadrangular (todos contra todos ida y vuelta) y la representa-
-remos esquematicamente con este logo:
+nombraremos como la Regla del cuadrangular (todos contra todos ida y vuelta) y la representaremos esquematicamente con este logo:
 
 ![regla logo estudio](assets/images/reglaEstudio.png)
 
@@ -37,12 +33,10 @@ juego para poder resolver problemas inesperados y sorprendentes.
 * Evitar las cuentas pesadas. Se evitarán las cuentas engorrosas en los problemas, esto
 requiere cierto equilibrio porque cuentas demasiado simples pueden llevar a problemas que
 tengan soluciones por métodos (como por ejemplo el tanteo) que son absolutamente legítimos
-pero en algunas circunstancias queremos evitar. A la vez se propondrán desafíos para que me-
-joren su capacidad de cálculo mental y la capacidad para resolver problemas conceptuales en
+pero en algunas circunstancias queremos evitar. A la vez se propondrán desafíos para que mejoren su capacidad de cálculo mental y la capacidad para resolver problemas conceptuales en
 forma rápida. La habilidad para hacer correctamente las “cuentas” la consideramos fundamental
 para tener un buen desempeño en la materia. La escribimos en forma encomillada pues bajo
-esa denominación abarcamos el manejo aritmético y algebraico. Lo evaluaremos desde el prin-
-cipio para ayudar a identificar a los estudiantes con dificultades en estas habilidades para que
+esa denominación abarcamos el manejo aritmético y algebraico. Lo evaluaremos desde el principio para ayudar a identificar a los estudiantes con dificultades en estas habilidades para que
 puedan dedicar a entrenarlas al mejor estilo deportivo. En la medida que estén en buena forma
 para realizarlas, el desempeño en la materia podrá enfocarse en la comprensión de ideas y
 conceptos más interesantes que son el objetivo principal de la misma.
@@ -57,8 +51,7 @@ proponiendo.
 La experiencia muestra que esas etapas no se pueden evitar. Salvo contadas excepciones –que
 siempre existen– los estudiantes que dejan pasar el tiempo y planean estudiar todo junto a último
 momento no suelen tener éxito. Los problemas que se proponen en esta materia no permiten que
-aprendas muy rápido una cantidad de métodos eficientes y los resuelvas en forma mecánica. Requie-
-ren que comprendas de qué se trata lo que estás haciendo. Y la comprensión no se logra de una
+aprendas muy rápido una cantidad de métodos eficientes y los resuelvas en forma mecánica. Requieren que comprendas de qué se trata lo que estás haciendo. Y la comprensión no se logra de una
 semana para la otra, sino que es el resultado de un proceso de maduración. Es por ese motivo que
 proponemos este sistema de evaluación continua que te ayudará a pautar etapas y sostener un ritmo
 de estudio imprescindible.
@@ -147,7 +140,7 @@ En esta primera mitad trabajaremos en aprender a identificar y analizar a las fu
  * **E**nunciados de problemas
  * **F**órmulas y propiedades,
  * **G**ráficos,
- * **N**úmeros que representan datos,\
+ * **N**úmeros que representan datos,
 
 La actividad matemática que desarrollaremos en las aulas tendrá que ver con estudiar todas estas
 formas de acercarse y trabajar con funciones, yendo y viniendo de una forma de representación a otra.

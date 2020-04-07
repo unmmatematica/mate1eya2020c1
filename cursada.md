@@ -43,24 +43,19 @@ Ya podés ir viendo las actividades programadas para esta semana:
 
 * Hacé la [prueba diagnóstico](https://docs.google.com/forms/d/1lsNd1Ny_ApRA73p3TlivCEAc2Dlu2OO--jcgORhfnds/) (esto debería ser un repaso del COPRUN, pero si encontrás dificultades y querés practicar más, podés hacer la [Unidad 0](assets/pdf/unidad0_repasoAlgebraico.pdf) de la guía de ejercicios).
 
-Y si querés ir adelantando:
-* Mirá este [video 1](https://youtu.be/PzbDS-1X7Cw) (el autor es un compa nuestro)
+* Mirá este [video función costo](https://youtu.be/PzbDS-1X7Cw) (el autor es un compa nuestro)
 
-* Mirá este [resuelto](assets/cursada/unidad1/Problema_1_Mesas.pdf) (el autor es un compa nuestro)
+* Mirá este [resuelto función costo](assets/cursada/unidad1/Problema_1_Mesas.pdf) (el autor es un compa nuestro)
 
-Muy pronto vamos darte más actividades.
+* Mirá este [video función ingreso](https://youtu.be/UduznG21ZYc) (el autor es un compa nuestro)
 
-Además también muy pronto vamos a contarte dónde podés ir publicando las dudas, preguntas o cosas que no te salieron. Todo esto lo vamos a tener en cuenta para la hoja de ruta de la semana que viene.
+* Mirá este [video función beneficio](https://youtu.be/I-XnNa37-4E) (el autor es un compa nuestro)
 
-<!---
-* Mirar este [resuelto]().
+* Intentá hacer los ejercicio 1 a 7 inclusive de la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)
 
-* Hacer los ejercicios 1 a 7 de la [Unidad 1: modelos lineales](assets/pdf/unidad1_modelosLineales.pdf).
+* Andá publicando tus dudas en el [foro](foro)
 
-* Publicar dudas, preguntas, o cosas que no salieron en el [foro]()
-
-* Material complementario recomendado:
-    * Demás cosas sobre [modelo lineal en material]()
+* Material complementario recomendado: (falta completar)
+    * Demás cosas sobre modelos lineales
     * Estas páginas de este libro
     * este video
---->
