@@ -46,6 +46,8 @@ Y si querés ir adelantando:
 
 * Mirá este [resuelto](assets/cursada/unidad1/Problema_1_Mesas.pdf) (el autor es un compa nuestro)
 
+Muy pronto te vamos a contar dónde podés ir publicando las dudas, preguntas o cosas que no te salieron. Todo esto lo vamos a tener en cuenta para la hoja de ruta de la semana que viene.
+
 <!---
 * Mirar este [resuelto]().
 

@@ -11,6 +11,8 @@
 
 ### Unidad 1: modelos lineales
 
+Muy pronto...
+
 <!---
 * [Video función lineal](assets/cursada/lineal_v1.0.mkv) (se baja el archivo)
 
