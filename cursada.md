@@ -25,7 +25,7 @@ Hoja de ruta para esta semana, para cada clase:
 --->
 
 ### Encuentro virtual por grupos
-Vamos a (intentar) hacer un mini encuentro virtual por grupos, como para vernos las caras y conocernos un poco, según este [cronograma](cronograma)
+Vamos a (intentar) hacer un mini encuentro virtual por grupos, como para vernos las caras y conocernos un poco, según este [cronograma](cronograma).
 
 Estate muy atentx al canal de Telegram y/o al mail, porque un rato antes vamos a avisar por dónde hacemos el encuentro.
 
@@ -37,7 +37,7 @@ Además, también sería genial si ya podés ir instalándote [zoom](https://zoo
 
 
 ### Hoja de ruta para esta semana
-Además, ya podés ir viendo las actividades programadas para esta semana:
+Ya podés ir viendo las actividades programadas para esta semana:
 
 * Leé estas [recomendaciones](recomendaciones) para la cursada.
 
