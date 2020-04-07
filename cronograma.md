@@ -84,7 +84,7 @@ Por el canal de Telegram y por mail, vamos a estar avisando por dónde hacemos l
 ### Grupo 9: 21.00 hs.
 * Rodriguez, Micaela
 * Rodriguez, Enzo
-* RodrÍguez, Franco
+* Rodríguez, Rocío
 * Rodriguez, Tomas
 * Rojas
 * Sanchez, Ramiro
