@@ -29,7 +29,7 @@ Vamos a (intentar) hacer un mini encuentro virtual por grupos, como para vernos 
 
 Estate muy atentx al canal de Telegram y/o al mail, porque un rato antes vamos a avisar por dónde hacemos el encuentro.
 
-Si vas a usar compu, en principio no necesitás instalarte nada. Si vas a usar celu, sería genial si ya podés ir instalántode [jitsi](https://www.shellhacks.com/split-pdf-file-linux-command-line/).
+Si vas a usar compu, en principio no necesitás instalarte nada. Si vas a usar celu, sería genial si ya podés ir instalántode [jitsi](https://jitsi.org/downloads/).
 
 
 ¿PONER INSTALARSE ZOOM?

@@ -15,7 +15,7 @@ Si es la primera vez que entrás acá, probablemente quieras leer estas [recomen
 ## Días y horarios de cursada
 
 * Comisión 12: Martes y Viernes de 18:00 a 22:00.
-    - Lxs profes son Sebastián Pedersen y Laura Reynoso.
+    - Lxs profes somos Sebastián Pedersen y Laura Reynoso.
 
 ## Canales de comunicación
 
