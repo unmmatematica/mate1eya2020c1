@@ -4,7 +4,7 @@
 
 **Si algunx no figura en ningún grupo, sientasé libre de unirse a cualquier de las sesiones.**
 
-**Por el canal de Telegram y por mail, vamos a estar avisando por dónde hacemos los encuentros.**
+**Las salas de los encuetros virtuales están [acá](encuentrosVirtuales)**
 
 ### Grupo 1: 18 hs.
 * Accosano More
