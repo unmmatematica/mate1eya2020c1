@@ -10,6 +10,8 @@
 
 **Ya están las salas para los encuentros virtuales**
 
+Pueden ir entrando para probar, y de paso ir conociéndose.
+
 Para entrar a las salas:
 * Desde compu simplemente entrar al link.
 * Desde celu instalarse al app jitsi, y luego entrar al link.
