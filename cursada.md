@@ -29,9 +29,9 @@ Vamos a (intentar) hacer un mini encuentro virtual por grupos, como para vernos 
 
 Estate muy atentx al canal de Telegram y/o al mail, porque un rato antes vamos a avisar por dónde hacemos el encuentro.
 
-Si vas a usar compu, en principio no necesitás instalarte nada. Si vas a usar celu, sería genial si ya podés ir instalándote [jitsi](https://jitsi.org/downloads/).
+Si vas a usar compu, en principio no necesitás instalarte nada. Si vas a usar celu, sería genial si ya podés ir instalándote [jitsi](https://jitsi.org/downloads/). Se usa para video conferencias.
 
-Además, también sería genial si ya podés ir instalándote [zoom](https://zoom.us/download). Se usa para video conferencias, y está para compu y para celu. Acá hay una [guía](assets/tutoriales/tutorial_zoom.pdf) que te puede ayudar a instalarlo.
+Además, también sería genial si ya podés ir instalándote [zoom](https://zoom.us/download). También se usa para video conferencias, y está para compu y para celu. Acá hay una [guía](assets/tutoriales/tutorial_zoom.pdf) que te puede ayudar a instalarlo.
 
 
 ### Hoja de ruta para esta semana
@@ -46,7 +46,9 @@ Y si querés ir adelantando:
 
 * Mirá este [resuelto](assets/cursada/unidad1/Problema_1_Mesas.pdf) (el autor es un compa nuestro)
 
-Muy pronto te vamos a contar dónde podés ir publicando las dudas, preguntas o cosas que no te salieron. Todo esto lo vamos a tener en cuenta para la hoja de ruta de la semana que viene.
+Muy pronto vamos darte más actividades.
+
+Además también muy pronto vamos a contarte dónde podés ir publicando las dudas, preguntas o cosas que no te salieron. Todo esto lo vamos a tener en cuenta para la hoja de ruta de la semana que viene.
 
 <!---
 * Mirar este [resuelto]().
