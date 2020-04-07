@@ -37,7 +37,7 @@ Además, como plan B, también sería genial si ya podés ir instalándote [zoom
 
 
 ### Hoja de ruta para esta semana
-Ya podés ir viendo las actividades programadas para esta semana:
+Estas son las actividades programadas para esta semana:
 
 * Leé estas [recomendaciones](recomendaciones) para la cursada.
 
