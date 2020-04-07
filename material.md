@@ -11,10 +11,11 @@
 
 ### Unidad 1: modelos lineales
 
-Muy pronto...
+* [video función costo](https://youtu.be/PzbDS-1X7Cw) (el autor es un compa nuestro)
 
-<!---
-* [Video función lineal](assets/cursada/lineal_v1.0.mkv) (se baja el archivo)
+* [resuelto función costo](assets/cursada/unidad1/Problema_1_Mesas.pdf) (el autor es un compa nuestro)
 
-* [Video función lineal otro](https://www.youtube.com/watch?v=AoZpzAoC1Qg) (de youtube)
---->
+* [video función ingreso](https://youtu.be/UduznG21ZYc) (el autor es un compa nuestro)
+
+* [video función beneficio](https://youtu.be/I-XnNa37-4E) (el autor es un compa nuestro)
+
