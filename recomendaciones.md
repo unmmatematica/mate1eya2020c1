@@ -97,7 +97,7 @@ eligiendo de cuál podés aprender mejor.
 ### Usar la computadora
 Los programas de matemática están presentes en la materia. Además del
 software matemático, tenés acceso al universo de Internet para buscar otras fuentes de información.
-Por ejemplo, el sitio https://es.khanacademy.org/ tiene una enorme variedad de videos con los que
+Por ejemplo, el sitio de [Khan Academy](https://es.khanacademy.org/) tiene una enorme variedad de videos con los que
 se puede aprender algunos procedimientos de cálculo frecuentes en la materia.
 
 ### Escribir notas personales y resúmenes
