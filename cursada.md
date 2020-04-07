@@ -31,6 +31,8 @@ Estate muy atentx al canal de Telegram y/o al mail, porque un rato antes vamos a
 
 Si vas a usar compu, en principio no necesitás instalarte nada. Si vas a usar celu, sería genial si ya podés ir instalándote [jitsi](https://jitsi.org/downloads/). Se usa para video conferencias.
 
+Si vas a usar compu, sería genial si tenés micrófono (lo usás con los auriculares del celu). Si lo podés probar antes, sería ideal.
+
 Además, también sería genial si ya podés ir instalándote [zoom](https://zoom.us/download). También se usa para video conferencias, y está para compu y para celu. Acá hay una [guía](assets/tutoriales/tutorial_zoom.pdf) que te puede ayudar a instalarlo.
 
 
