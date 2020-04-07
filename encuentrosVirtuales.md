@@ -9,37 +9,37 @@ Desde celu instalarse al app jitsi, y luego entrar al link.
 
 
 * Encuentro virtual grupo 1:
-https://meet.jit.si/mate1com12grupo1#config.startWithVideoMuted=true
+[Sala](https://meet.jit.si/mate1com12grupo1#config.startWithVideoMuted=true)
 
 * Encuentro virtual grupo 2:
-https://meet.jit.si/mate1com12grupo2#config.startWithVideoMuted=true
+[Sala](https://meet.jit.si/mate1com12grupo2#config.startWithVideoMuted=true)
 
 * Encuentro virtual grupo 3:
-https://meet.jit.si/mate1com12grupo3#config.startWithVideoMuted=true
+[Sala](https://meet.jit.si/mate1com12grupo3#config.startWithVideoMuted=true)
 
 * Encuentro virtual grupo 4:
-https://meet.jit.si/mate1com12grupo4#config.startWithVideoMuted=true
+[Sala](https://meet.jit.si/mate1com12grupo4#config.startWithVideoMuted=true)
 
 * Encuentro virtual grupo 5:
-https://meet.jit.si/mate1com12grupo5#config.startWithVideoMuted=true
+[Sala](https://meet.jit.si/mate1com12grupo5#config.startWithVideoMuted=true)
 
 * Encuentro virtual grupo 6:
-https://meet.jit.si/mate1com12grupo6#config.startWithVideoMuted=true
+[Sala](https://meet.jit.si/mate1com12grupo6#config.startWithVideoMuted=true)
 
 * Encuentro virtual grupo 7:
-https://meet.jit.si/mate1com12grupo7#config.startWithVideoMuted=true
+[Sala](https://meet.jit.si/mate1com12grupo7#config.startWithVideoMuted=true)
 
 * Encuentro virtual grupo 8:
-https://meet.jit.si/mate1com12grupo8#config.startWithVideoMuted=true
+[Sala](https://meet.jit.si/mate1com12grupo8#config.startWithVideoMuted=true)
 
 * Encuentro virtual grupo 9:
-https://meet.jit.si/mate1com12grupo9#config.startWithVideoMuted=true
+[Sala](https://meet.jit.si/mate1com12grupo9#config.startWithVideoMuted=true)
 
 * Encuentro virtual grupo 10:
-https://meet.jit.si/mate1com12grupo10#config.startWithVideoMuted=true
+[Sala](https://meet.jit.si/mate1com12grupo10#config.startWithVideoMuted=true)
 
 * Encuentro virtual grupo 11:
-https://meet.jit.si/mate1com12grupo11#config.startWithVideoMuted=true
+[Sala](https://meet.jit.si/mate1com12grupo11#config.startWithVideoMuted=true)
 
 * Encuentro virtual grupo 12:
-https://meet.jit.si/mate1com12grupo12#config.startWithVideoMuted=true
+[Sala](https://meet.jit.si/mate1com12grupo12#config.startWithVideoMuted=true)
