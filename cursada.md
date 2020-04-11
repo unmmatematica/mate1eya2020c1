@@ -43,19 +43,19 @@ Estas son las actividades programadas para esta semana:
 
 * Hacé la [prueba diagnóstico](https://docs.google.com/forms/d/1lsNd1Ny_ApRA73p3TlivCEAc2Dlu2OO--jcgORhfnds/) (esto debería ser un repaso del COPRUN, pero si encontrás dificultades y querés practicar más, podés hacer la [Unidad 0](assets/pdf/unidad0_repasoAlgebraico.pdf) de la guía de ejercicios).
 
-* Mirá este [video función costo](https://youtu.be/PzbDS-1X7Cw) (el autor es un compa nuestro)
+* Mirá este [video función costo](https://youtu.be/g1301gSGlBE) (el autor es un compa nuestro)
 
 * Mirá este [resuelto función costo](assets/cursada/unidad1/Problema_1_Mesas.pdf) (el autor es un compa nuestro)
 
-* Mirá este [video función ingreso](https://youtu.be/UduznG21ZYc) (el autor es un compa nuestro)
+* Mirá este [video función ingreso](https://youtu.be/YRE3vyBoruQ) (el autor es un compa nuestro)
 
-* Mirá este [video función beneficio](https://youtu.be/I-XnNa37-4E) (el autor es un compa nuestro)
+* Mirá este [video función beneficio](https://youtu.be/oCfqQQytztU) (el autor es un compa nuestro)
 
 * Intentá hacer los ejercicio 1 a 7 inclusive de la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)
 
 * Andá publicando tus dudas en el [foro](foro)
 
 * Material complementario recomendado: (falta completar)
-    * Demás cosas sobre modelos lineales
+    * Acá hay más [videos](https://www.youtube.com/channel/UC0IHvR2rn3WM01t51bqItCw/videos)
     * Estas páginas de este libro
     * este video

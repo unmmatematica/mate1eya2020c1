@@ -9,6 +9,8 @@
 
 ## Videos, explicaciones y resueltos
 
+* [Canal youtube Matemática I UNM Economía y Administración](https://www.youtube.com/channel/UC0IHvR2rn3WM01t51bqItCw/videos)
+
 ### Unidad 1: modelos lineales
 
 * [video función costo](https://youtu.be/PzbDS-1X7Cw) (el autor es un compa nuestro)
