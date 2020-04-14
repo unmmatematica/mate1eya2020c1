@@ -23,6 +23,6 @@ Si es la primera vez que entrás acá, probablemente quieras ir a la sección [c
 
 * Para avisos de último momento y novedades vamos a utilizar este [canal de Telegram](https://t.me/joinchat/AAAAAEwprmdz2LDYlfp2Qg). Es importante que lo revises regularmente para no perderte nada.
 
-* Para intercambios más fluidos, vamos a utilizar este [grupo de Telegram]([grupo Telegram com 12](https://t.me/joinchat/Esdo1kj7LXJw_oQFD6LWjA))
+* Para intercambios más fluidos, vamos a utilizar este [grupo Telegram com 12](https://t.me/joinchat/Esdo1kj7LXJw_oQFD6LWjA)
 
 * También está el [campus virtual](http://campusvirtual.unm.edu.ar/moodle/login/index.php), donde te conviene estar inscriptx pues es una herramienta institucional oficial de la UNM. Asegurate de configurar un mail que revises regularmente.

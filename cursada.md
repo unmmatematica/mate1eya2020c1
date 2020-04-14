@@ -27,7 +27,7 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
     - Mirá este [video de función lineal episodio II](https://www.youtube.com/watch?v=3gkEtPRSoug)
     - Mirá este [video de cómo graficar una función lineal](https://www.youtube.com/watch?v=43K6jX6r9nM)
     - Intentá hacer los problemas 8 a 10 inclusive de la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)
-    - Andá publicando tus dudas en el [foro](foro)
+    - Andá publicando tus dudas en el [foro](foro) o en el [grupo Telegram com 12](https://t.me/joinchat/Esdo1kj7LXJw_oQFD6LWjA) 
 
 <!---
     - Mirá este [video función lineal parte 1](https://www.youtube.com/watch?v=Cp9c5HXxIZA)
