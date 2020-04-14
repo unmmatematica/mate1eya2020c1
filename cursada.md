@@ -15,7 +15,10 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
 ### Clase Ma 14/Abr
 
 * Actividades
-    - Encuentros virtuales para consultas. Anotarse [en esta encuesta](https://doodle.com/poll/q8d7hnfye7rp89di) (Hay que poner el nombre y elegir una opción)
+    - Encuentros virtuales para consultas. Anotarse [en esta encuesta](https://doodle.com/poll/q8d7hnfye7rp89di)
+        - Hay que poner el nombre y elegir una opción.
+        - Ante cualquier inconveniente, sientansé libres de unirse a cualquiera.
+        - Vamos a pasar los links de las salas mañana por Telegram.
 
 * Tareas:
     - Repasá el problema 6 de la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)
