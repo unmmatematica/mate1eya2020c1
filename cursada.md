@@ -19,6 +19,7 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
         - Hay que poner el nombre y elegir una opción.
         - Ante cualquier inconveniente, sientansé libres de unirse a cualquiera.
         - Vamos a pasar los links de las salas mañana por Telegram.
+    - Unirse al grupo de Telegram (es distinto del canal): [grupo Telegram com 12](https://t.me/joinchat/Esdo1kj7LXJw_oQFD6LWjA)
 
 * Tareas:
     - Repasá el problema 6 de la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)

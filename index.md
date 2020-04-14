@@ -21,6 +21,8 @@ Si es la primera vez que entrás acá, probablemente quieras ir a la sección [c
 
 * Vamos a utilizar esta página para subir material, fechas importantes y todo lo relacionado a la cursada. Tal vez sea una buena idea agregarla a los favoritos de tu navegador. :link::globe_with_meridians:
 
-* Para avisos de último momento y novedades vamos a utilizar este canal de [Telegram](https://t.me/joinchat/AAAAAEwprmdz2LDYlfp2Qg). Es importante que lo revises regularmente para no perderte nada.
+* Para avisos de último momento y novedades vamos a utilizar este [canal de Telegram](https://t.me/joinchat/AAAAAEwprmdz2LDYlfp2Qg). Es importante que lo revises regularmente para no perderte nada.
+
+* Para intercambios más fluidos, vamos a utilizar este [grupo de Telegram]([grupo Telegram com 12](https://t.me/joinchat/Esdo1kj7LXJw_oQFD6LWjA))
 
 * También está el [campus virtual](http://campusvirtual.unm.edu.ar/moodle/login/index.php), donde te conviene estar inscriptx pues es una herramienta institucional oficial de la UNM. Asegurate de configurar un mail que revises regularmente.
