@@ -8,16 +8,29 @@ layout: default
 {% include cursada.md cursada=site.data.cursada_actual %}
 --->
 
-<!---
 ## Semana 2 (Ma 14/Abr y Vie 17/Abr)
 
-Hoja de ruta para esta semana, para cada clase:
+Hoja de ruta para esta semana (es decir actividades y tareas):
 
 ### Clase Ma 14/Abr
 
-* Encuentros virtuales para trabajar las dudas del foro, según este cronograma:
+* Actividades
+    - Encuentros virtuales para consultas. Anotarse [en esta encuesta](https://doodle.com/poll/q8d7hnfye7rp89di) (Hay que poner el nombre y elegir una opción)
+
+* Tareas:
+    - Repasá el problema 6 de la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)
+    - Mirá este [video de función lineal episodio I](https://www.youtube.com/watch?v=6ZRu6wg2XDg)
+    - Mirá este [video de función lineal episodio II](https://www.youtube.com/watch?v=3gkEtPRSoug)
+    - Mirá este [video de cómo graficar una función lineal](https://www.youtube.com/watch?v=43K6jX6r9nM)
+    - Intentá hacer los problemas 8 a 10 inclusive de la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)
+    - Andá publicando tus dudas en el [foro](foro)
+
+<!---
+    - Mirá este [video función lineal parte 1](https://www.youtube.com/watch?v=Cp9c5HXxIZA)
+    - Mirá este [video función lineal parte 2](https://www.youtube.com/watch?v=mHetw7oH_eA)
 --->
 
+---
 
 ## Semana 1 (Ma 07/Abr. El Viernes es feriado)
 <!---
@@ -55,7 +68,4 @@ Estas son las actividades programadas para esta semana:
 
 * Andá publicando tus dudas en el [foro](foro)
 
-* Material complementario recomendado: (falta completar)
-    * Acá hay más [videos](https://www.youtube.com/channel/UC0IHvR2rn3WM01t51bqItCw/videos)
-    * Estas páginas de este libro
-    * este video
+* Material complementario recomendado: mirar la unidad 1 de [material](material). Allí hay más videos, resueltos y bibliografía.
