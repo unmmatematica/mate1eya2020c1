@@ -16,7 +16,7 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
 
 * Actividades
     - Encuentros virtuales 18 hs. y 20 hs.
-        - Para puesta en común y consultas sobre la tarea de la clase pasada (o antes, no hay problema).
+        - Para puesta en común y consultas sobre la tarea de la clase pasada (o de antes, no hay problema).
         - Por Telegram y mail, anunciamos un rato antes por dónde.
 
 
