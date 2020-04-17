@@ -19,9 +19,11 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
         - Para puesta en común y consultas sobre la tarea de la clase pasada (o antes, no hay problema).
         - Por Telegram y mail, anunciamos un rato antes por dónde.
 
+
 * Tarea en base a consultas clase pasada:
     - Mirá este [video problema tornillos unidad 1 (parte 1, 10 min.)](https://youtu.be/hkF-EOCEXUk)
     - Mirá este [video problema tornillos unidad 1 (parte 2, 5 min.)](https://youtu.be/W-EYoTvE8TE)
+
 
 * Tareas:
     - Mirá este [video de un problema unidad 1 (11 min.)](https://www.youtube.com/watch?v=m4d9zT3HyH8)
@@ -31,7 +33,8 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
     - Intentá hacer los problemas 11 a 13 inclusive de la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)
     - Andá publicando tus dudas en el [foro](foro) o en el [grupo Telegram com 12](https://t.me/joinchat/Esdo1kj7LXJw_oQFD6LWjA) 
 
-* Tareas para entregar:
+
+* *Tarea para entregar:*
     - Estos dos problemas ![Problemas entrega 1 unidad 1](assets/images/entrega1_unida1.png)
     - _Opcionalmente_ también se puede entregar [este problema](https://drive.google.com/open?id=1WkEuYa_A-uRXO3QjFjP3c_WNn0LfsIbf)
 
