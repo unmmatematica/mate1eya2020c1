@@ -30,11 +30,11 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
     - Mirá este [video GeoGebra parte 1 (3 min.)](https://www.youtube.com/watch?v=xx1u4LcSav4)
     - Mirá este [video GeoGebra parte 2 (3 min.)](https://www.youtube.com/watch?v=TkR9ANdC2HU)
     - Mirá este [video mismo problema de antes pero en GeoGebra (4 min.)](https://www.youtube.com/watch?v=pGcFype1o5M)
-    - Intentá hacer los problemas 11 a 13 inclusive de la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)
+    - Intentá hacer los problemas 11 a 14 inclusive de la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)
     - Andá publicando tus dudas en el [foro](foro) o en el [grupo Telegram com 12](https://t.me/joinchat/Esdo1kj7LXJw_oQFD6LWjA) 
 
 
-* *Tarea para entregar:*
+* *Tarea para entregar:* (Después decimos bien cómo, pero igual se puede ir haciendo)
     - Estos dos problemas ![Problemas entrega 1 unidad 1](assets/images/entrega1_unida1.png)
     - _Opcionalmente_ también se puede entregar [este problema](https://drive.google.com/open?id=1WkEuYa_A-uRXO3QjFjP3c_WNn0LfsIbf)
 
