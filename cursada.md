@@ -21,8 +21,8 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
 
 
 * Tarea en base a consultas clase pasada:
-    - Mirá este [video problema tornillos unidad 1 (parte 1, 10 min.)](https://youtu.be/hkF-EOCEXUk)
-    - Mirá este [video problema tornillos unidad 1 (parte 2, 5 min.)](https://youtu.be/W-EYoTvE8TE)
+    - Mirá este [video problema tornillos unidad 1 (parte 1, 10 min.)](https://youtu.be/W-EYoTvE8TE)
+    - Mirá este [video problema tornillos unidad 1 (parte 2, 5 min.)](https://youtu.be/hkF-EOCEXUk)
 
 
 * Tareas:
