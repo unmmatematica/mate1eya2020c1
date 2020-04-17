@@ -1,20 +1,14 @@
 ---
 items:
-  - nombre: Proceso
-    descripcion: Es un programa en ejecución, tiene su propio estado independiente del estado de cualquier otro programa incluidos los del sistema operativo. Va acompañado de recursos como archivos, memoria, etc. 
-  - nombre: Semáforo
-    descripcion: (completar)
-  - nombre: Monitor
-    descripcion: (completar)
-  - nombre: Deadlock
-    descripcion: los procesos están esperando un evento que nunca ocurrirá.
-  - nombre: Hilo o _thread_
-    descripcion: (completar)
-  - nombre: Sección crítica
-    descripcion: (completar)
+  - nombre: Actividades
+    descripcion: es lo que se realizará ese día durante el horario de clase.
+  - nombre: Tareas
+    descripcion: es lo que queda para hacer para la siguiente clase.
 ---
 
 # Glosario
+
+## Cursada
 
 {% for item in page.items %}
 * **{{item.nombre}}:** {{item.descripcion}}
