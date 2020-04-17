@@ -35,7 +35,7 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
 
 
 * **Tarea para entregar:** (Después decimos bien cómo, pero igual se puede ir haciendo)
-    - Estos dos problemas ![Problemas entrega 1 unidad 1](assets/images/entrega1_unida1.png)
+    - Estos dos problemas, para el **Martes 21/Abr** (o antes) ![Problemas entrega 1 unidad 1](assets/images/entrega1_unida1.png)
     - _Opcionalmente_ también se puede entregar [este problema](https://drive.google.com/open?id=1WkEuYa_A-uRXO3QjFjP3c_WNn0LfsIbf)
 
 
