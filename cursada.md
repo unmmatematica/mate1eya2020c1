@@ -19,7 +19,7 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
         - Van a pensar 2 problemas que les digamos.
         - Es **muy importante** que aprovechen el tiempo de clase para ponerse a pensar e intentar los problemas que vamos a proponer.
         - La idea es que los vayan pensando y resolviendo, y se vayan ayudando y compartiendo dudas y resoluciones por el grupo de Telegram (o por cualquier grupo que tengan).
-        - Nosotros, por el grupo de Telegram, iremos tirando guías, conceptos importantes, y pequeñas preguntas para pensar de a poquito. Además también iremos respondiendo dudas.
+        - Nosotros, por el canal de Telegram, iremos tirando guías, conceptos importantes, y pequeñas preguntas para pensar de a poquito. Además también iremos respondiendo dudas por el grupo de Telegram.
 
 * Tareas:
     - Intentá hacer los problemas 15 a 17 inclusive de la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)
