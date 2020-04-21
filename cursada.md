@@ -18,7 +18,7 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
     - De 18 a 22 hs.
         - Van a pensar 2 problemas que les digamos.
         - Es **muy importante** que aprovechen el tiempo de clase para ponerse a pensar e intentar los problemas que vamos a proponer.
-        - La idea es que los vayan pensando y resolviendo, y se vayan ayudando y compartiendo dudas y resoluciones por el grupo de Telegram.
+        - La idea es que los vayan pensando y resolviendo, y se vayan ayudando y compartiendo dudas y resoluciones por el grupo de Telegram (o por cualquier grupo que tengan).
         - Nosotros, por el grupo de Telegram, iremos tirando guías, conceptos importantes, y pequeñas preguntas para pensar de a poquito. Además también iremos respondiendo dudas.
 
 * Tareas:
