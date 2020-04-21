@@ -8,6 +8,29 @@ layout: default
 {% include cursada.md cursada=site.data.cursada_actual %}
 --->
 
+## Semana 3 (Ma 21/Abr y Vie 24/Abr)
+
+Hoja de ruta para esta semana (es decir actividades y tareas):
+
+### Clase Ma 21/Abr
+
+* Actividades
+    - De 18 a 22 hs.
+        - Van a pensar 2 problemas que les digamos.
+        - Es **muy importante** que aprovechen el tiempo de clase para ponerse a pensar e intentar los problemas que vamos a proponer.
+        - La idea es que los vayan pensando y resolviendo, y se vayan ayudando y compartiendo dudas y resoluciones por el grupo de Telegram.
+        - Nosotros, por el grupo de Telegram, iremos tirando guías, conceptos importantes, y pequeñas preguntas para pensar de a poquito. Además también iremos respondiendo dudas.
+
+* Tareas:
+    - Intentá hacer los problemas 15 a 17 inclusive de la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro, mail, Telegram).
+
+* **Tarea para entregar:** para el Vie 24/Abr hasta última hora (o antes)
+    - Entregar [este problema](https://drive.google.com/open?id=1WkEuYa_A-uRXO3QjFjP3c_WNn0LfsIbf) (si no entregaron los de la clase pasada, no importa).
+    - Lxs que no pudieron entregar los ejercicios de la clase pasada, también pueden entregar esos ejercicios si quieren.
+
+---
+
 ## Semana 2 (Ma 14/Abr y Vie 17/Abr)
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
