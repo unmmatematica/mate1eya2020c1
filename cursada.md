@@ -16,10 +16,10 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
 
 * Actividades
     - De 18 a 22 hs.
-        - Van a pensar 2 problemas que les digamos.
+        - Van a pensar 2 problemas que les digamos. Los pasamos por el [canal de Telegram](https://t.me/joinchat/AAAAAEwprmdz2LDYlfp2Qg).
         - Es **muy importante** que aprovechen el tiempo de clase para ponerse a pensar e intentar los problemas que vamos a proponer.
         - La idea es que los vayan pensando y resolviendo, y se vayan ayudando y compartiendo dudas y resoluciones por el grupo de Telegram (o por cualquier grupo que tengan).
-        - Nosotros, por el canal de Telegram, iremos tirando guías, conceptos importantes, y pequeñas preguntas para pensar de a poquito. Además también iremos respondiendo dudas por el grupo de Telegram.
+        - Nosotros, por el [canal de Telegram](https://t.me/joinchat/AAAAAEwprmdz2LDYlfp2Qg), iremos tirando guías, conceptos importantes, y pequeñas preguntas para pensar de a poquito. Además también iremos respondiendo dudas por el [grupo Telegram](https://t.me/joinchat/Esdo1kj7LXJw_oQFD6LWjA).
 
 * Tareas:
     - Intentá hacer los problemas 15 a 17 inclusive de la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)
