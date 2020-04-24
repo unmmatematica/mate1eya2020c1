@@ -24,11 +24,14 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
         - [Grupo 5](https://t.me/joinchat/Esdo1hQYNKsXlcQ5MvFN1A)
         - [Grupo 6](https://t.me/joinchat/Esdo1hj9p4X25ssPot0ioQ)
 
-    - De 18 a 22 hs.
-        - Van a pensar problemas que les digamos. Los pasamos por el [canal de Telegram](https://t.me/joinchat/AAAAAEwprmdz2LDYlfp2Qg).
+    - De 18 a 21 hs.
+        - Van a pensar algunos problemas que les digamos. Los pasamos por el [canal de Telegram](https://t.me/joinchat/AAAAAEwprmdz2LDYlfp2Qg).
         - Es **muy importante** que aprovechen el tiempo de clase para ponerse a pensar e intentar los problemas que vamos a proponer.
         - La idea es que los vayan pensando y resolviendo, y se vayan ayudando y compartiendo dudas y resoluciones por los mini grupitos de Telegram.
         - Nosotros, por el [canal de Telegram](https://t.me/joinchat/AAAAAEwprmdz2LDYlfp2Qg), iremos tirando guías, conceptos importantes, y pequeñas preguntas para pensar de a poquito.
+    
+    - De 21 a 22 hs.
+        - Por los mini grupitos de Telegram, consultas sobre lo que necesiten.        
 
 * Tareas:
     - Terminar la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)
