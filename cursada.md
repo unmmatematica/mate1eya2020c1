@@ -12,6 +12,30 @@ layout: default
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
 
+### Clase Vie 24/Abr
+
+* Actividades
+    - Unirse a alguno de estos mini grupos de Telegram:
+        - **Importante:** si te unís a un grupo y ya hay más de 10 personas, unite a otro por favor. La idea es trabajar en grupitos reducidos, para facilitar el intercambio.
+        - [Grupo 1](https://t.me/joinchat/Esdo1hkWv3hL4FLjuDgriA)
+        - [Grupo 2](https://t.me/joinchat/Esdo1h0HjN84UcLZYV3wqA)
+        - [Grupo 3](https://t.me/joinchat/Esdo1hknJCtHZ_9DUjMVjg)
+        - [Grupo 4](https://t.me/joinchat/Esdo1hYCKcHJW1kMazGQmQ)
+        - [Grupo 5](https://t.me/joinchat/Esdo1hQYNKsXlcQ5MvFN1A)
+        - [Grupo 6](https://t.me/joinchat/Esdo1hj9p4X25ssPot0ioQ)
+
+    - De 18 a 22 hs.
+        - Van a pensar problemas que les digamos. Los pasamos por el [canal de Telegram](https://t.me/joinchat/AAAAAEwprmdz2LDYlfp2Qg).
+        - Es **muy importante** que aprovechen el tiempo de clase para ponerse a pensar e intentar los problemas que vamos a proponer.
+        - La idea es que los vayan pensando y resolviendo, y se vayan ayudando y compartiendo dudas y resoluciones por los mini grupitos de Telegram.
+        - Nosotros, por el [canal de Telegram](https://t.me/joinchat/AAAAAEwprmdz2LDYlfp2Qg), iremos tirando guías, conceptos importantes, y pequeñas preguntas para pensar de a poquito.
+
+* Tareas:
+    - Terminar la [Unidad 1](assets/pdf/unidad1_modelosLineales.pdf)
+    - También hay ejercicios adicionales para esta unidad.
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro, mail, Telegram).
+
+
 ### Clase Ma 21/Abr
 
 * Actividades
