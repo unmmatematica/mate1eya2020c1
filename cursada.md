@@ -8,6 +8,25 @@ layout: default
 {% include cursada.md cursada=site.data.cursada_actual %}
 --->
 
+## Semana 4 (Ma 28/Abr. El Viernes es feriado)
+
+Hoja de ruta para esta semana (es decir actividades y tareas):
+
+### Clase Ma 28/Abr
+
+* Actividades
+    - De 18 a 18.30 hs., ver este [video introducción a sistemas de ecuaciones lineales (10 min.)](https://www.youtube.com/watch?v=nwy8UVGey0g)
+    - Encuentro virtual de 18:30 a 19.40 hs. para seguir introduciendo el tema.
+    - De 19.40 a 20 hs. descanso.
+    - De 20 a 22 hs. se darán problemas por Telegram para pensar e ir resolviendo ayudándose entre todxs.
+        - **Muy importante** intentar pensar estos problemas. Es la única forma de ir progresando.
+
+* Tareas:
+    - Intentá los problemas 19 a 25 de la [Unidad 2](assets/pdf/unidad2.pdf)
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro, mail, Telegram).
+    - Leer el enunciado del problema 26 de la [Unidad 2](assets/pdf/unidad2.pdf)
+
+---
 ## Semana 3 (Ma 21/Abr y Vie 24/Abr)
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
