@@ -16,7 +16,7 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
 
 * Actividades
     - De 18 a 18.30 hs., ver este [video introducción a sistemas de ecuaciones lineales (10 min.)](https://www.youtube.com/watch?v=nwy8UVGey0g)
-        - El video dura 10 min. pero tenés 30 min. para mirarlo tranquilx, ir entendiendo y tomando apuntes.
+        - El video dura 10 min. pero tenés 30 min. para mirarlo tranquilx, e ir entendiendo y tomando apuntes.
     - Encuentro virtual de 18:30 a 19.40 hs. para seguir introduciendo el tema.
     - De 19.40 a 20 hs. descanso.
     - De 20 a 22 hs. se darán problemas por Telegram para pensar e ir resolviendo ayudándose entre todxs.
