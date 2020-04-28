@@ -21,7 +21,8 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
     - De 19.40 a 20 hs. descanso.
     - De 20 a 22 hs. se darán problemas por Telegram para pensar e ir resolviendo ayudándose entre todxs.
         - **Muy importante** intentar pensar estos problemas. Es la única forma de ir progresando.
-
+        - La idea es seguir usando los mini grupitos de Telegram para facilitar el intercambio.
+        
 * Tareas:
     - Intentá los problemas 19 a 25 de la [Unidad 2](assets/pdf/Unidad2.pdf)
     - Andá publicando tus dudas en los canales de comunicación que prefieras (foro, mail, Telegram).
