@@ -23,9 +23,9 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
         - **Muy importante** intentar pensar estos problemas. Es la única forma de ir progresando.
 
 * Tareas:
-    - Intentá los problemas 19 a 25 de la [Unidad 2](assets/pdf/unidad2.pdf)
+    - Intentá los problemas 19 a 25 de la [Unidad 2](assets/pdf/Unidad2.pdf)
     - Andá publicando tus dudas en los canales de comunicación que prefieras (foro, mail, Telegram).
-    - Leer el enunciado del problema 26 de la [Unidad 2](assets/pdf/unidad2.pdf)
+    - Leer el enunciado del problema 26 de la [Unidad 2](assets/pdf/Unidad2.pdf)
 
 ---
 ## Semana 3 (Ma 21/Abr y Vie 24/Abr)

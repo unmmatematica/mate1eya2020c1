@@ -2,7 +2,7 @@
 
 ## Guía de ejercicios
 
-* [Unidad 2: sistemas de ecuaciones lineales](/mate1eya2020c1/assets/pdf/unidad2.pdf)
+* [Unidad 2: sistemas de ecuaciones lineales](/mate1eya2020c1/assets/pdf/Unidad2.pdf)
 
 * [Unidad 1: modelos lineales](/mate1eya2020c1/assets/pdf/unidad1_modelosLineales.pdf)
 
