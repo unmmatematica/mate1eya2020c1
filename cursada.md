@@ -8,6 +8,31 @@ layout: default
 {% include cursada.md cursada=site.data.cursada_actual %}
 --->
 
+## Semana 5 (Ma 05/May y Vie 08/May)
+
+Hoja de ruta para esta semana (es decir actividades y tareas):
+
+### Clase Ma 05/Abr
+
+* Actividades
+    - Releé **detenidamente** el enunciado del problema 26 de la [Unidad 2](assets/pdf/Unidad2.pdf).
+        - Ahora intentá los ítems a) y b) de ese problema.
+        - Ahora intentá el ítem c) con los sistemas de ecuaciones de ejercicio 19 de la [Unidad 2](assets/pdf/Unidad2.pdf)
+
+    - Vamos a trabajar algunos problemas adicionales de la  [Unidad 2](assets/pdf/Unidad2.pdf).
+        - Se darán problemas por Telegram para pensar e ir resolviendo ayudándose entre todxs.
+        - **Muy importante** intentar pensar estos problemas. Es la única forma de ir progresando.
+        - La idea es seguir usando los mini grupitos de Telegram para facilitar el intercambio.
+        
+* Tareas:
+    - Terminá el problema 26 de la [Unidad 2](assets/pdf/Unidad2.pdf)
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro, mail, Telegram).
+    - Si podés, seguí avanzando hasta terminar la [Unidad 2](assets/pdf/Unidad2.pdf), problemas 27 a 29 inclusive.
+        - Este [video](https://www.youtube.com/watch?v=FNaZ9SnITzQ) quizás te ayude. Miralo.
+
+
+---
+
 ## Semana 4 (Ma 28/Abr. El Viernes es feriado)
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
