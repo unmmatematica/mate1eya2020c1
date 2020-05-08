@@ -16,9 +16,6 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
 
 * Actividades
     - Vamos a trabajar los últimos problemas de la  [Unidad 2](assets/pdf/Unidad2.pdf).
-        - Se darán problemas por Telegram para pensar e ir resolviendo ayudándose entre todxs.
-        - **Muy importante** intentar pensar estos problemas. Es la única forma de ir progresando.
-        - La idea es seguir usando los mini grupitos de Telegram para facilitar el intercambio.
     - También vamos a contestar cualquier consulta de las unidades 1 y 2.
         
 * Tareas:
