@@ -34,7 +34,7 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
     - Mirá estos dos videos más sobre cuadráticas:
         - [Video cuadrática parte 1](http://campusvirtual.unm.edu.ar/moodle/mod/url/view.php?id=19301)
         - [Video cuadrática parte 2](http://campusvirtual.unm.edu.ar/moodle/mod/url/view.php?id=19302)
-    - Mirá este video para parábloa con GeoGebra:
+    - Mirá este video para parábola con GeoGebra:
         - [Parábola GeoGebra](https://www.youtube.com/watch?v=T0nK8PHyJ-E)
     - Intentá resolver hasta el problema 41 inclusive de la  [Unidad 3a](assets/pdf/Unidad3a.pdf)
     - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
