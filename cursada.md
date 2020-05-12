@@ -16,14 +16,14 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
 
 * Actividades: comenzamos con la [Unidad 3a](assets/pdf/Unidad3a.pdf) de modelos cuadráticos.
     - Leé **detenidamente** el problema 30 de la [Unidad 3a](assets/pdf/Unidad3a.pdf).
-        - Intenté resolverlo. Lo que salga y como salga. No es necesario hacer todo.
+        - Intentá resolverlo. Lo que salga y como salga. No es necesario hacer todo.
         - Miré este [video](https://www.youtube.com/watch?v=9rOZR5Jpk9U).
             - **Importante:** tomá notas.
         - Terminá de resolver el problema 30.
             - Como siempre, nos vas mostrando cómo te va saliendo, consultas, dudas, o lo que quieras compartir por Telegram.
     - Leé **detenidamente** el problema 31 de la [Unidad 3a](assets/pdf/Unidad3a.pdf).
         - Intentá resolverlo.
-        - Como siempre, nos van mostrando cómo les va saliendo, consultas, dudas, lo que quieran compartir por Telegram.
+        - Como siempre, nos vas mostrando cómo te va saliendo, consultas, dudas, o lo que quieras compartir por Telegram.
     - Mirá este [video](https://www.youtube.com/watch?v=S4Yb1Pa4KBw) sobre teoría de las cuadráticas.
         - **Importante:** tomá notas.
     - Leé **detenidamente** el problema 32 de la [Unidad 3a](assets/pdf/Unidad3a.pdf).
