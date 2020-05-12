@@ -12,7 +12,7 @@ layout: default
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
 
-### Clase Ma 12/Abr
+### Clase Ma 12/May
 
 * Actividades: comenzamos con la [Unidad 3a](assets/pdf/Unidad3a.pdf) de modelos cuadráticos.
     - Leé **detenidamente** el problema 30 de la [Unidad 3a](assets/pdf/Unidad3a.pdf).
@@ -49,7 +49,7 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
 
-### Clase Vie 08/Abr
+### Clase Vie 08/May
 
 * Actividades
     - Vamos a trabajar los últimos problemas de la  [Unidad 2](assets/pdf/Unidad2.pdf).
@@ -63,7 +63,7 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
         - **Ojo**: tenés 3 horas a partir de que lo empezás a hacer.
 
 
-### Clase Ma 05/Abr
+### Clase Ma 05/May
 
 * Actividades
     - Releé **detenidamente** el enunciado del problema 26 de la [Unidad 2](assets/pdf/Unidad2.pdf).
