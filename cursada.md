@@ -8,6 +8,43 @@ layout: default
 {% include cursada.md cursada=site.data.cursada_actual %}
 --->
 
+## Semana 6 (Ma 12/May y Vie 15/May)
+
+Hoja de ruta para esta semana (es decir actividades y tareas):
+
+### Clase Ma 12/Abr
+
+* Actividades: comenzamos con la [Unidad 3a](assets/pdf/Unidad3a.pdf) de modelos cuadráticos.
+    - Leé **detenidamente** el problema 30 de la [Unidad 3a](assets/pdf/Unidad3a.pdf).
+        - Intenté resolverlo. Lo que salga y como salga. No es necesario hacer todo.
+        - Miré este [video](https://www.youtube.com/watch?v=9rOZR5Jpk9U).
+            - **Importante:** tomá notas.
+        - Terminá de resolver el problema 30.
+            - Como siempre, nos vas mostrando cómo te va saliendo, consultas, dudas, o lo que quieras compartir por Telegram.
+    - Leé **detenidamente** el problema 31 de la [Unidad 3a](assets/pdf/Unidad3a.pdf).
+        - Intentá resolverlo.
+        - Como siempre, nos van mostrando cómo les va saliendo, consultas, dudas, lo que quieran compartir por Telegram.
+    - Mirá este [video](https://www.youtube.com/watch?v=S4Yb1Pa4KBw) sobre teoría de las cuadráticas.
+        - **Importante:** tomá notas.
+    - Leé **detenidamente** el problema 32 de la [Unidad 3a](assets/pdf/Unidad3a.pdf).
+        - Intentá resolverlo.
+        - Como siempre, nos vas mostrando cómo te va saliendo, consultas, dudas, o lo que quieras compartir por Telegram.
+        
+* Tareas:
+    - Mirá estos dos videos más sobre cuadráticas:
+        - [Video cuadrática parte 1](http://campusvirtual.unm.edu.ar/moodle/mod/url/view.php?id=19301)
+        - [Video cuadrática parte 2](http://campusvirtual.unm.edu.ar/moodle/mod/url/view.php?id=19302)
+    - Mirá este video para parábloa con GeoGebra:
+        - [Parábola GeoGebra](https://www.youtube.com/watch?v=T0nK8PHyJ-E)
+    - Intentá resolver hasta el problema 41 inclusibve de la  [Unidad 3a](assets/pdf/Unidad3a.pdf)
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
+
+
+---
+
+
+
 ## Semana 5 (Ma 05/May y Vie 08/May)
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
