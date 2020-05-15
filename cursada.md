@@ -12,6 +12,28 @@ layout: default
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
 
+### Clase Vie 15/May
+
+* Actividades: 
+    - De 18 a 19 hs.: encuentro virtual para cerrar el comienzo de la unidad 3a de la clase pasada.
+        - Jitsi la otra vez anduvo mal, así que esta la hacemos por Google Meet.
+            - Google Meet: desde compu solamente hace falta una cuenta de gmail, no hay que instalar nada. Desde celu hay un app.
+            - Un rato antes les paso el link del encuentro.
+
+    - De 19 a 19.40 hs.: lagurar el problema 33 de la unidad 3a.
+    - De 19.40 a 20 hs.: recreo.
+    - De 20 a 22 hs.: elige tu propia aventura con estas dos opciones:
+        - opción 1) seguir lagurando la unidad 3a, con los problemas 35, 36 y 37
+        - opción 2) encuentro virtual para dudas de las unidades 1 y 2 (un rato antes pasamos link).        
+
+* Tareas:
+    - Hay bastante material, en el campus y en el canal de youtube, para que mires si querés reforzar.
+    - Intentá resolver hasta el problema 37 inclusive de la  [Unidad 3a](assets/pdf/Unidad3a.pdf)
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
+
+
+
 ### Clase Ma 12/May
 
 * Actividades: comenzamos con la [Unidad 3a](assets/pdf/Unidad3a.pdf) de modelos cuadráticos.
@@ -36,7 +58,7 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
         - [Video cuadrática parte 2](http://campusvirtual.unm.edu.ar/moodle/mod/url/view.php?id=19302)
     - Mirá este video para parábola con GeoGebra:
         - [Parábola GeoGebra](https://www.youtube.com/watch?v=T0nK8PHyJ-E)
-    - Intentá resolver hasta el problema 41 inclusive de la  [Unidad 3a](assets/pdf/Unidad3a.pdf)
+    - Intentá resolver hasta el problema 33 inclusive de la  [Unidad 3a](assets/pdf/Unidad3a.pdf)
     - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
     - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
 
