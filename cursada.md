@@ -8,6 +8,32 @@ layout: default
 {% include cursada.md cursada=site.data.cursada_actual %}
 --->
 
+## Semana 7 (Ma 19/May y Vie 22/May)
+
+Hoja de ruta para esta semana (es decir actividades y tareas):
+
+### Clase Ma 19/May
+
+* Actividades: 
+    - De 18 a 19 hs.: encuentro virtual para consultas.
+        - Pueden preguntar cualquier cosa que necesiten.
+        - Por Google Meet: desde compu solamente hace falta una cuenta de gmail, no hay que instalar nada. Desde celu hay un app.
+        - Un rato antes les paso el link del encuentro.
+
+    - De 19 a 22 hs.: vamos a trabajar los problemas 38 a 41 inclusive de la [Unidad 3a](assets/pdf/Unidad3a.pdf)
+        - se los vamos pasando por Telegram.
+        - vamos viendo dudas, y van compartiendo y preguntando lo que necesiten.
+        - **Muy importante** que intentes pensar los problemas, leyendo atentamente el enunciado, y construyendo de a poco.
+
+* Tareas:
+    - Hay bastante material, en el campus y en el canal de youtube, para que mires si querés reforzar.
+    - Intentá resolver hasta el problema 41 inclusive de la  [Unidad 3a](assets/pdf/Unidad3a.pdf)
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
+
+
+---
+
 ## Semana 6 (Ma 12/May y Vie 15/May)
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
