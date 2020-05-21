@@ -21,7 +21,7 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
         - Por Google Meet: desde compu solamente hace falta una cuenta de gmail, no hay que instalar nada. Desde celu hay un app.
         - Un rato antes les paso el link del encuentro.
 
-    - Luego vamos a trabajar a última parte de la [Unidad 3a](assets/pdf/Unidad3a.pdf) (problemas 42 en adelante)
+    - Luego vamos a trabajar la última parte de la [Unidad 3a](assets/pdf/Unidad3a.pdf) (problemas 42 en adelante)
         - se los vamos pasando por Telegram.
         - vamos viendo dudas, y van compartiendo y preguntando lo que necesiten.
         - **Muy importante** que intentes pensar los problemas, leyendo atentamente el enunciado, y construyendo de a poco.
