@@ -8,6 +8,25 @@ layout: default
 {% include cursada.md cursada=site.data.cursada_actual %}
 --->
 
+## Semana 8 (Ma 26/May y Vie 29/May)
+
+Hoja de ruta para esta semana (es decir actividades y tareas):
+
+### Clase Ma 26/May
+
+* Actividades: 
+    - Desde 18hs.: encuentro virtual para consultas y cerrar la unidad 3a de modelos cuadráticos.
+
+    - Luego vamos a trabajar algunos adicionales de la [Unidad 3a](assets/pdf/Unidad3a.pdf) (problemas 42 en adelante)
+
+* Tareas:
+    - Terminar [Unidad 3a](assets/pdf/Unidad3a.pdf)
+        - También hay problemas adicionales.
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
+
+
+---
 
 ## Semana 7 (Ma 19/May y Vie 22/May)
 
