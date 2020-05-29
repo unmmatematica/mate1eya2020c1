@@ -12,6 +12,22 @@ layout: default
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
 
+### Clase Vie 29/May
+
+* Actividades: 
+    - Mirá este [video sobre repaso de porcentajes (para exponenciales)](https://www.youtube.com/watch?v=a9cPVjBdzoI)
+    - Intentá el problema 48 (Población) de [Unidad 3b](assets/pdf/Unidad3b.pdf)
+    - Mirá este [video sobre modelos exponenciales](https://www.youtube.com/watch?v=8NwqKje_Oaw)
+    - Intentá el problema 49 (Automóvil 1) de [Unidad 3b](assets/pdf/Unidad3b.pdf)
+
+* Tareas:
+    - Leé la definición de interés compuesto de la [Unidad 3b](assets/pdf/Unidad3b.pdf)
+    - Intentá el problema 50 (Capital) [Unidad 3b](assets/pdf/Unidad3b.pdf)
+    - Intentá el problema 51 (C14) [Unidad 3b](assets/pdf/Unidad3b.pdf). No te olvides de leer con detenimiento el decaimiento radiactivo.
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
+
+
 ### Clase Ma 26/May
 
 * Actividades: 
