@@ -8,6 +8,27 @@ layout: default
 {% include cursada.md cursada=site.data.cursada_actual %}
 --->
 
+## Semana 9 (Ma 02/Jun y Vie 05/Jun)
+
+Hoja de ruta para esta semana (es decir actividades y tareas):
+
+### Clase Ma 02/Jun
+
+* Actividades: 
+    - Mirá este [video sobre un problema de funciones exponenciales](https://www.youtube.com/watch?v=FibKdulwx3Q)
+    - Intentá el problema 58 (Cultivo 2) de [Unidad 3b](assets/pdf/Unidad3b.pdf)
+    - Intentá el problema 56 (Gráficos) de [Unidad 3b](assets/pdf/Unidad3b.pdf)
+    - Intentá el problema 54 (Nicotina) de [Unidad 3b](assets/pdf/Unidad3b.pdf)
+
+* Tareas:
+    - Intentá terminar la  [Unidad 3b](assets/pdf/Unidad3b.pdf)
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
+
+
+
+---
+
 ## Semana 8 (Ma 26/May y Vie 29/May)
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
