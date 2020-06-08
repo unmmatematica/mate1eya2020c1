@@ -12,6 +12,20 @@ layout: default
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
 
+### Clase Vie 05/Jun
+
+* Actividades: 
+    - A las 18 hs. hacemos encuentro virtual para consultas.
+    - Desde las 19.30 - 20 hs. terminamos la [Unidad 3b](assets/pdf/Unidad3b.pdf)
+        - Y también hacemos algunos de los adicionales
+
+* Tareas:
+    - Intentá terminar la  [Unidad 3b](assets/pdf/Unidad3b.pdf)
+        - Y también los adicionales
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
+
+
 ### Clase Ma 02/Jun
 
 * Actividades: 
