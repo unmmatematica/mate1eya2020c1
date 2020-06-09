@@ -8,6 +8,29 @@ layout: default
 {% include cursada.md cursada=site.data.cursada_actual %}
 --->
 
+## Semana 10 (Ma 09/Jun y Vie 12/Jun)
+
+Hoja de ruta para esta semana (es decir actividades y tareas):
+
+### Clase Ma 09/Jun
+
+* Actividades: 
+    - A las 18 hs. hacemos encuentro virtual:
+        - Cerrar lo que haya quedado de modelos exponenciales [Unidad 3b](assets/pdf/Unidad3b.pdf).
+        - Cualquier otra consulta que haya quedado en el tintero.
+        - Hacemos una introducción a _razones de cambio_ (comienzo de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf)).
+    - Luego nos pasamos a Telegram a lagurar algunos problemas de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+
+* Tareas:
+    - Ver este [video sobre razones de cambio](https://unmtube.unm.edu.ar/video/855/razon-de-cambio-f)
+    - Intentá resolver los problemas 60 a 61 inclusive de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+    - Ver este [video sobre derivadas y rectas tangentes](https://unmtube.unm.edu.ar/video/842/introduccion-a-derivadas-y-rectas-tangentes).
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
+
+
+---
+
 ## Semana 9 (Ma 02/Jun y Vie 05/Jun)
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
