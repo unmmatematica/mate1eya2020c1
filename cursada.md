@@ -12,6 +12,22 @@ layout: default
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
 
+
+### Clase Vie 12/Jun
+
+* Actividades: 
+    - A las 18 hs. hacemos encuentro virtual:
+        - Hacemos una introducción a _recta tangente y derivada_ ([Unidad 4: Derivada](assets/pdf/Unidad4.pdf)).
+    - Luego nos pasamos a Telegram a lagurar algunos problemas de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+
+* Tareas:
+    - Ver este [video sobre derivadas y rectas tangentes](https://unmtube.unm.edu.ar/video/842/introduccion-a-derivadas-y-rectas-tangentes).
+    - Resolver hasta el problema 73 de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf), salvo los que dicen calcular máximos o mínimos (aunque en realidad también los podés ir pensando)
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
+
+
+
 ### Clase Ma 09/Jun
 
 * Actividades: 
