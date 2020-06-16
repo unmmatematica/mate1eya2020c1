@@ -8,6 +8,30 @@ layout: default
 {% include cursada.md cursada=site.data.cursada_actual %}
 --->
 
+
+## Semana 11 (Ma 16/Jun y Vie 19/Jun)
+
+Hoja de ruta para esta semana (es decir actividades y tareas):
+
+
+### Clase Ma 16/Jun
+
+* Actividades: 
+    - A las 18 hs. hacemos encuentro virtual:
+        - El link es https://meet.google.com/hqj-yoab-euq
+        - Hacemos una introducción a _derivadas, crecimiento y extremos_ ([Unidad 4: Derivada](assets/pdf/Unidad4.pdf)).
+    - Luego nos pasamos a Telegram a lagurar algunos problemas de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+        - Problemas 74, 75, 76 y 78.
+
+* Tareas:
+    - Ver este [video sobre derivadas, crecimiento y extremos](https://www.youtube.com/watch?v=moSgsJcyKiA).
+    - Resolver hasta el problema 79 inclusive de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
+
+
+
+---
 ## Semana 10 (Ma 09/Jun y Vie 12/Jun)
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
