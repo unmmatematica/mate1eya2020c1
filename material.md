@@ -2,8 +2,14 @@
 
 ## Guía de ejercicios
 
+* [Unidad 5: Integrales](assets/pdf/Unidad5.pdf)
+
+* [Unidad 4: Derivada](assets/pdf/Unidad4.pdf)
+
 * [Unidad 3b: modelos exponenciales](/mate1eya2020c1/assets/pdf/Unidad3b.pdf)
+
 * [Unidad 3a: modelos cuadráticos](/mate1eya2020c1/assets/pdf/Unidad3a.pdf)
+
 * [Unidad 2: sistemas de ecuaciones lineales](/mate1eya2020c1/assets/pdf/Unidad2.pdf)
 
 * [Unidad 1: modelos lineales](/mate1eya2020c1/assets/pdf/unidad1_modelosLineales.pdf)

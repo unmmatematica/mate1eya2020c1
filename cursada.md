@@ -8,10 +8,50 @@ layout: default
 {% include cursada.md cursada=site.data.cursada_actual %}
 --->
 
+## Semana 12 (Ma 23/Jun y Vie 26/Jun)
+
+Hoja de ruta para esta semana (es decir actividades y tareas):
+
+### Clase Ma 23/Jun
+
+* Actividades: 
+    - A las 18 hs. hacemos encuentro virtual:
+        - El link es https://meet.google.com/hqj-yoab-euq
+        - Comentamos los problemas 81 y 83 de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+        - Hacemos una introducción a los problemas 86 y 88 para que luego puedan terminar de completar los probemas de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+    - Luego nos pasamos a Telegram a lagurar algunos problemas de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+        - La idea hoy es cerrar la Unidad 4 de Derivadas.
+
+* Tareas:
+    - Terminar la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
+    
+    - Si la quieren ir viendo, ya está la [Unidad 5: Integrales](assets/pdf/Unidad4.pdf) que comenzaremos a ver la clase que viene.
+
+
+---
 
 ## Semana 11 (Ma 16/Jun y Vie 19/Jun)
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
+
+### Clase Vie 19/Jun
+
+* Actividades: 
+    - A las 18 hs. hacemos encuentro virtual:
+        - El link es https://meet.google.com/ido-pcgj-jcm
+        - Comentamos el problema 70 de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+        - Comentamos los problemas 71 y 79 de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+        - Comentamos el problema 77 de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+        - Hacemos una introducción para que luego puedan trabajar los probemas 80 a 84 de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+    - Luego nos pasamos a Telegram a lagurar algunos problemas de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+        - Problemas 81, 82 y 83.
+
+* Tareas:
+    - Resolver hasta el problema 85 inclusive de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
 
 
 ### Clase Ma 16/Jun
