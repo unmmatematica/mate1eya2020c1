@@ -12,6 +12,24 @@ layout: default
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
 
+### Clase Vie 26/Jun
+
+* Actividades: 
+    - A las 18.30 hs. hacemos encuentro virtual:
+        - El link es https://meet.google.com/ido-pcgj-jcm
+        - Comentamos problemas que hayan quedado dudas de la [Unidad 4: Derivada](assets/pdf/Unidad4.pdf).
+        - Hacemos una introducción a antiderivada para la [Unidad 5: Integrales](assets/pdf/Unidad5.pdf).
+    - Luego nos pasamos a Telegram a lagurar algunos problemas de la [Unidad 5: Integrales](assets/pdf/Unidad5.pdf).
+
+* Tareas:
+    - Resolver los problemas 91 a 95 inclusive de la [Unidad 5: Integrales](assets/pdf/Unidad5.pdf).
+    - Intentar resolver, o al menos pensar, los problemas 96 a 101 inclusive de la [Unidad 5: Integrales](assets/pdf/Unidad5.pdf).
+    - Mirar este [video de integrales y área bajo una curva](https://www.youtube.com/watch?v=Rp_3xj2WA-c)
+    - Mirar este [video de integrales y área entre dos curvas](https://www.youtube.com/watch?v=AnZLnqWYWTU)
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
+    
+
 ### Clase Ma 23/Jun
 
 * Actividades: 
