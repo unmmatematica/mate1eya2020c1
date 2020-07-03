@@ -8,6 +8,40 @@ layout: default
 {% include cursada.md cursada=site.data.cursada_actual %}
 --->
 
+
+
+## Semana 13 (Ma 30/Jun y Vie 03/Jul)
+
+Hoja de ruta para esta semana (es decir actividades y tareas):
+
+### Clase Vie 03/Jul
+
+* Actividades: 
+    - Nos abocamos a terminar la Unidad 5: problemas que quedarons más adicionales
+
+* Tareas:
+    - Terminar la [Unidad 5: Integrales](assets/pdf/Unidad5.pdf).
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
+
+
+### Clase Ma 30/Jun
+
+* Actividades: 
+    - A las 18 hs. hacemos encuentro virtual:
+        - Hacemos una introducción a cálculo de áreas mediante integrales para la [Unidad 5: Integrales](assets/pdf/Unidad5.pdf).
+    - Mirar este [video de integrales y área bajo una curva](https://www.youtube.com/watch?v=Rp_3xj2WA-c)
+    - Mirar este [video de integrales y área entre dos curvas](https://www.youtube.com/watch?v=AnZLnqWYWTU)
+    - Luego nos pasamos a Telegram a lagurar algunos problemas de la [Unidad 5: Integrales](assets/pdf/Unidad5.pdf).
+
+* Tareas:
+    - Resolver los problemas 102 a 106 inclusive de la [Unidad 5: Integrales](assets/pdf/Unidad5.pdf).
+    - Andá publicando tus dudas en los canales de comunicación que prefieras (foro campus, Telegram, mail).
+    - En el campus hay bibliografía también para que consultes. Si podés hacelo, siempre aporta mucho.
+
+
+---
+
 ## Semana 12 (Ma 23/Jun y Vie 26/Jun)
 
 Hoja de ruta para esta semana (es decir actividades y tareas):
